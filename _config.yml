@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
+
 title: MLS
-description: Message Layer Security FAQ
+description: Messaging Layer Security (MLS) is an IETF working group building a modern, efficient, secure group messaging protocol.
+show_downloads: false
+# google_analytics: [Your Google Analytics tracking ID]
