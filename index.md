@@ -8,3 +8,5 @@ efficient, practical and secure. The MLS specification is in two parts:
     protocol itself.
 
 # FAQ
+
+Coming soon.
