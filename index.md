@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # What is MLS?
 
 MLS is a security layer for encrypting messages in groups of size two to
