@@ -30,6 +30,6 @@ under the IETF's [Note Well](https://www.ietf.org/about/note-well/).
 _Should I use this right now?_
 
 No: it's still being discussed and built, though some people are working on
-[draft implementations](https://github.com/bifurcation/mls). We're aiming to
+[draft implementations](https://github.com/mlswg/mls-implementations). We're aiming to
 design, analyse, and specify MLS concurrently, following the successful model
 of TLS 1.3.
