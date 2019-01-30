@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# What is MLS?
+# What is Messaging Layer Security (MLS)?
 
-MLS is a security layer for encrypting messages in groups of size two to
+Messaging Layer Security (MLS) is a security layer for encrypting messages in groups of size two to
 many. It is being built by the MLS working group and designed to be efficient,
 practical and secure. The proposed MLS specification is in two parts:
 
