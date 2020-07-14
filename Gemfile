@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.6.3'
+gem 'jekyll'
 gem 'jekyll-remote-theme'
 gem 'jekyll-seo-tag'
 gem 'rubyzip', '>= 1.2.2'
