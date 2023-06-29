@@ -33,7 +33,7 @@ under the IETF's [Note Well](https://www.ietf.org/about/note-well/).
 
 _Should I use this right now?_
 
-No: it's still being discussed and built, though some people are working on
-[draft implementations](https://github.com/mlswg/mls-implementations). We're aiming to
-design, analyse, and specify MLS concurrently, following the successful model
-of TLS 1.3.
+Yes! The protocol has been approved by the IESG and is now awaiting publication by the
+RFC Editor. There are several 
+[implementations](https://github.com/mlswg/mls-implementations), of which some are
+open source.
