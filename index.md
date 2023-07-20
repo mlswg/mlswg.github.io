@@ -10,7 +10,7 @@ practical and secure. The proposed MLS specification is in two parts:
 
   - an [architecture document](https://messaginglayersecurity.rocks/mls-architecture/draft-ietf-mls-architecture.html) ([source](https://github.com/mlswg/mls-architecture/blob/master/draft-ietf-mls-architecture.md), [diffs](https://messaginglayersecurity.rocks/mls-architecture/))
     setting out the context, problem domain and security requirements, and
-  - a [protocol document](https://messaginglayersecurity.rocks/mls-protocol/draft-ietf-mls-protocol.html) ([source](https://github.com/mlswg/mls-protocol/blob/master/draft-ietf-mls-protocol.md), [diffs](https://messaginglayersecurity.rocks/mls-protocol/)) defining the
+  - a [protocol document](https://messaginglayersecurity.rocks/mls-protocol/rfc9420.html) ([source](https://github.com/mlswg/mls-protocol/blob/master/rfc9420.md), [diffs](https://messaginglayersecurity.rocks/mls-protocol/)) defining the
     protocol itself.
 
 The right place to ask any questions or keep on top of development is
@@ -33,7 +33,6 @@ under the IETF's [Note Well](https://www.ietf.org/about/note-well/).
 
 _Should I use this right now?_
 
-Yes! The protocol has been approved by the IESG and is now awaiting publication by the
-RFC Editor. There are several 
-[implementations](https://github.com/mlswg/mls-implementations), of which some are
-open source.
+Yes! The protocol has been approved by the IESG and has been published as RFC9420.
+There are several [implementations](https://github.com/mlswg/mls-implementations), of
+which some are open source.
