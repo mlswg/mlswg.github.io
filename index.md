@@ -8,7 +8,7 @@ Messaging Layer Security (MLS) is a security layer for encrypting messages in gr
 many. It is being built by the MLS working group and designed to be efficient,
 practical and secure. The proposed MLS specification is in two parts:
 
-  - an [architecture document](https://messaginglayersecurity.rocks/mls-architecture/draft-ietf-mls-architecture.html) ([source](https://github.com/mlswg/mls-architecture/blob/master/draft-ietf-mls-architecture.md), [diffs](https://messaginglayersecurity.rocks/mls-architecture/))
+  - an [architecture document](https://messaginglayersecurity.rocks/mls-architecture/draft-ietf-mls-architecture.html) ([source](https://github.com/mlswg/mls-architecture/blob/main/draft-ietf-mls-architecture.md), [diffs](https://messaginglayersecurity.rocks/mls-architecture/))
     setting out the context, problem domain and security requirements, and
   - a [protocol document](https://www.rfc-editor.org/rfc/rfc9420.html) ([source](https://github.com/mlswg/mls-protocol/blob/master/rfc9420.md), [diffs](https://messaginglayersecurity.rocks/mls-protocol/)) defining the
     protocol itself.
