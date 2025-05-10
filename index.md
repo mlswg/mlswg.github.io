@@ -16,10 +16,7 @@ practical and secure. The proposed MLS specification is in two parts:
 The right place to ask any questions or keep on top of development is
 the [mailing list](https://mailarchive.ietf.org/arch/browse/mls/), or
 you can check out the current
-[documents](https://datatracker.ietf.org/wg/mls/documents/). There's
-also a [public Wire
-group](https://app.wire.com/join/?key=qmrRRfaklMRm8UsYSqpA&code=KD8O6_Pvkli3pmzXbWtr)
-for chatting.
+[documents](https://datatracker.ietf.org/wg/mls/documents/).
 
 # Contributing
 
